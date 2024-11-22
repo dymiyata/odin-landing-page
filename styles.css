@@ -10,7 +10,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 150px;
+  padding: 10px 170px;
 }
 
 .header-logo {
@@ -21,7 +21,7 @@
 ul {
   list-style: none;
   display: flex;
-  gap: 16px;
+  gap: 20px;
   justify-content: end;
 }
 
@@ -36,11 +36,11 @@ ul a {
   display: flex;
   justify-content: center;
   gap: 40px;
-  padding: 80px 150px;
+  padding: 120px 170px;
 }
 
 .top>div {
-  flex: 1;
+  flex: 1 0 200px;
 }
 
 .top h1 {
@@ -55,7 +55,7 @@ ul a {
 }
 
 .top-img-div {
-  background-color: grey;
+  background-color: #6d747e;
   display: flex;
   justify-content: center;
   align-items: center;
