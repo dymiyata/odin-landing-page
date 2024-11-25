@@ -108,4 +108,30 @@ button {
 
 .lower-mid {
   background-color: #e5e7eb;
+  color: #1f2937;
+  display: flex;
+  justify-content: center;
+  padding-top: 130px;
+  padding-bottom: 100px;
+}
+
+.quote-block {
+  display: flex;
+  flex-direction: column;
+  width: 785px;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  width: 785px;
+  align-self: center
+}
+
+.quote-author {
+  font-size: 24px;
+  font-weight: bold;
+  align-self: flex-end;
+  margin-right: 40px;
 }
