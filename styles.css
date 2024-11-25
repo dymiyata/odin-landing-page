@@ -71,3 +71,41 @@ button {
   padding: 8px 36px;
   cursor: pointer;
 }
+
+.upper-mid {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 140px;
+}
+
+
+.info-text {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+  margin-bottom: 50px;
+}
+
+.image-row {
+  display: flex;
+  justify-content: center;
+  gap: 45px;
+}
+
+.upper-mid img {
+  height: 160px;
+  width: 160px;
+  border: 4px solid #3882f6;
+  border-radius: 15px;
+  box-sizing: border-box;
+}
+
+.card {
+  width: 156px;
+  color: #1f2937;
+  font-size: 16px;
+}
+
+.lower-mid {
+  background-color: #e5e7eb;
+}
