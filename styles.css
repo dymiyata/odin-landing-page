@@ -135,3 +135,35 @@ button {
   align-self: flex-end;
   margin-right: 40px;
 }
+
+.bottom {
+  padding: 100px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.call-to-action-container {
+  width: 1000px;
+  padding: 40px 100px;
+  box-sizing: border-box;
+  display: flex;
+  background-color: #3882f6;
+  color: white;
+  justify-content: space-between;
+  border-radius: 8px;
+}
+
+.action-text {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.sign-up-text {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.bottom button {
+  border: 3px solid white;
+}
